@@ -79,6 +79,7 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 
 ## Project Overview:
 **Objective:** Build a Markowitz model to optimize a two-asset portfolio for the best risk/return ratio using the efficient frontier.
+
 **Tools Used:** Excel
 ## Key Concepts:
 ### - Assets Analyzed:
@@ -107,8 +108,12 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 ## Key Findings:
 - The 50/50 VOO and BLV allocation displayed the highest Sharpe ratio, indicating an optimal risk-to-return balance historically.
 - Developed a plot of the efficient frontier, using standard deviation (risk) on the x-axis and mean return (reward) on the y-axis, and highlighted points with Sharpe Ratio labels.
-## Conclusion:
 
+### Efficient Frontier Line Plot
+![Efficient Frontier Line Plot](efficient-frontier-img)
+
+## Conclusion:
+![Efficient Frontier](efficient-frontier-img)
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
 
