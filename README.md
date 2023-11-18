@@ -110,7 +110,7 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 - Developed a plot of the efficient frontier, using standard deviation (risk) on the x-axis and mean return (reward) on the y-axis, and highlighted points with Sharpe Ratio labels.
 
 ### Efficient Frontier Line Plot
-![Efficient Frontier Line Plot](/Portfolio-Optimization-using-Markowitz-Model/efficient-frontier-img)
+![Efficient Frontier Line Plot](efficient-frontier-img.png)
 
 ## Conclusion:
 ![Efficient Frontier](efficient-frontier-img.png)
