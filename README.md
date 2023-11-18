@@ -110,10 +110,10 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 - Developed a plot of the efficient frontier, using standard deviation (risk) on the x-axis and mean return (reward) on the y-axis, and highlighted points with Sharpe Ratio labels.
 
 ### Efficient Frontier Line Plot
-![Efficient Frontier Line Plot](efficient-frontier-img)
+![Efficient Frontier Line Plot](/Portfolio-Optimization-using-Markowitz-Model/efficient-frontier-img)
 
 ## Conclusion:
-![Efficient Frontier](efficient-frontier-img)
+![Efficient Frontier](efficient-frontier-img.png)
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
 
