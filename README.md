@@ -92,17 +92,22 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
  - Risk-Free Rate at 0.19% (Pre-Pandemic 2020 Monthly return of 10-year treasury bills)
 ## Process and Findings:
 **1. Data Analysis:** Calculated mean returns based on the adjusted close for VOO and BLV.
+
 **2. Risk Assessment:** Determined variance and standard deviation of returns.
+
 **3. Sharpe Ratio:** Computed using the formula: 
 (E(R) - Rf)/StdDev(Porfolio) where E(R) is the Expected Return of Portfolio, R_f is the Risk-Free Rate, and StdDev(Portfolio) is the Standard Deviation of the Portfolio.
+
 **4. Correlation Analysis:** Examined the covariance and correlation between VOO and BLV.
+
 **5. Portfolio Allocation:** Analyzed different asset allocations (e.g., 50% VOO, 50% BLV) and their impacts on portfolio metrics.
+
 **6. Performance Metrics Analysis:** Evaluated mean return, variance, standard deviation, and Sharpe ratio for various allocations.
+
 ## Key Findings:
 - The 50/50 VOO and BLV allocation displayed the highest Sharpe ratio, indicating an optimal risk-to-return balance historically.
 - Developed a plot of the efficient frontier, using standard deviation (risk) on the x-axis and mean return (reward) on the y-axis, and highlighted points with Sharpe Ratio labels.
 ## Conclusion:
-The project contributed to a deeper understanding of portfolio optimization and risk management, demonstrating the practical application of the Markowitz model in real-world scenarios. Additionally, it served to enhance skills in data analysis and visualization, especially within the realm of financial data.
 
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
