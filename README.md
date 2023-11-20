@@ -63,7 +63,7 @@ This project on investment risk, focuses on the practical application of financi
 Assessed investment risks and returns through the application of financial metrics, demonstrating the effective utilization of statistical methods in real-world investment scenarios to enhance risk assessment and management.
 
 ### Risk Analysis Plot
-![Value at Risk FAANG Stocks](VaR_fang_img.png)
+![Value at Risk FAANG Stocks](Investment-Risk-Management/VaR_fang_img.png)
 
 ## Conclusion:
 This project connects academic concepts with their practical use in finance, focusing on the detailed analysis of investment risks. It applies these ideas to make better decisions in managing portfolios, showing the importance of using data for risk evaluation in finance.
