@@ -25,10 +25,6 @@ Portfolio Diversification using Correlation Matrix
 https://www.coursera.org/projects/portfolio-diversification-correlation-matrix#details
 
 
-<br>
-<br>
-<br>
-
 ---
 
 # Portfolio Optimization using Markowitz Model
@@ -68,23 +64,22 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 
 ### Efficient Frontier Line Plot
 ![Efficient Frontier Line Plot](efficient-frontier-img.png)
+
 ## Conclusion:
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
-
-
 <br>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
-
 # Investment Risk Management Course
+A course titled "Investment Risk Management" was completed, focusing on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
+
+
 ## Course Overview
-This section covers the "Investment Risk Management" course, focusing on advanced financial concepts like the Treynor Ratio and Value at Risk. The course is structured into several key areas, each building upon the last to provide a comprehensive understanding of risk management in investments.
+**Objective:** Apply key risk management concepts such as the Treynor Ratio and Value at Risk in the context of investment portfolios.
+
+**Tools Used:** Google Sheets
+
 
 ## Key Learning Outcomes
  - **Introduction to Risk:** Understanding the fundamentals of investment risk.
@@ -102,7 +97,50 @@ Monthly Returns and Standard Deviation: Analyzing the volatility and performance
 ## Conclusion
 This course provided valuable insights into the complexities of investment risk management. By applying theoretical concepts in a practical setting, it offered a deeper understanding of how to measure and manage risk in investment portfolios.
 
+<br>
+---
 
+# Investment Risk Management Course
+A course titled "Investment Risk Management" was completed, focusing on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
+
+
+## Course Overview
+**Objective:** Apply key risk management concepts such as the Treynor Ratio and Value at Risk in the context of investment portfolios.
+
+**Tools Used:** Google Sheets
+
+## Key Concepts:
+- ### Risk Management Techniques:
+- Understanding and calculating Beta
+- Calculating and interpreting the Treynor Ratio
+- Estimating and analyzing Value at Risk (VaR)
+
+### - Methodology:
+- Monthly returns analysis and standard deviation calculation
+- Graphical representation of risk metrics
+- Comparative analysis of investment risk factors
+
+## Learning Process and Insights:
+- **Introduction to Risk:** Gained a foundational understanding of investment risk and its various forms.
+
+- **Monthly Returns and Standard Deviation:** Analyzed the volatility and performance of investments using monthly returns and standard deviation.
+
+- **Beta Calculation:** Comprehended and calculated the beta of stocks to gauge their market volatility.
+
+- **Treynor Ratio Calculation:** Learned to calculate the Treynor Ratio to assess risk-adjusted returns of investments.
+
+- **Value at Risk Analysis:** Estimated the maximum potential loss in an investment with a statistical approach, using Value at Risk.
+
+- **Graphing and Conclusions:** Visualized key metrics for a clearer understanding of investment risks and performance.
+
+## Key Findings:
+Gained practical experience in evaluating investment risks and returns using advanced financial metrics.
+Developed an understanding of how to apply statistical methods to real-world investment scenarios for better risk assessment and management.
+### Risk Analysis Plot
+Risk Analysis Graph
+
+## Conclusion:
+The "Investment Risk Management" course bridged the gap between theoretical knowledge and real-world application in finance, focusing on the analytical evaluation of investment risks. The skills acquired in this course are pivotal for making informed decisions in portfolio management, highlighting the importance of data-driven risk assessment in financial practices.
 
 
 
