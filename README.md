@@ -1,12 +1,10 @@
 # Portfolio-Management-Projects
 
+Summmary of this readme and these projects. 
+
 ## Table of Contents
 - [Portfolio Optimization using Markowitz Model](#Portfolio-Optimization-using-Markowitz-Model)
-	- [Portfolio Optimization using Markowitz Model](#Portfolio-Optimization-using-Markowitz-Model)
 - [Investment Risk Management Course](#Investment-Risk-Management-Course)
-- [Project Overview](#project-overview)
-- [Conclusion](#conclusion)
-
 
 
 
@@ -27,7 +25,9 @@ Portfolio Diversification using Correlation Matrix
 https://www.coursera.org/projects/portfolio-diversification-correlation-matrix#details
 
 
-
+<br>
+<br>
+<br>
 
 # Portfolio Optimization using Markowitz Model
 A hands-on project titled "Portfolio Optimization using the Markowitz Model" was completed from Coursera. This project involved showcasing skills in financial portfolio management, utilizing advanced Excel techniques and financial theories.
@@ -66,9 +66,18 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 
 ### Efficient Frontier Line Plot
 ![Efficient Frontier Line Plot](efficient-frontier-img.png)
-
 ## Conclusion:
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 # Investment Risk Management Course
