@@ -3,10 +3,12 @@
 Summmary of this readme and these projects. 
 
 ## Table of Contents
+- [Investment Risk Management](#Investment-Risk-Management-Course)
 - [Portfolio Optimization using Markowitz Model](#Portfolio-Optimization-using-Markowitz-Model)
-- [Investment Risk Management Course](#Investment-Risk-Management-Course)
+- [Portfolio Diversification using Correlation Matrix](#Portfolio-Diversification-using-Correlation-Matrix)
 
 
+---
 
 Portfolio Optimization using Markowitz Model
 
@@ -25,10 +27,54 @@ Portfolio Diversification using Correlation Matrix
 https://www.coursera.org/projects/portfolio-diversification-correlation-matrix#details
 
 
+
+
+<br>
+
 ---
 
+# Investment Risk Management Course
+This project on investment risk, focuses on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
+
+## Course Overview
+**Objective:** Apply key risk management concepts such as the Treynor Ratio and Value at Risk in the context of investment portfolios.
+
+**Tools Used:** Google Sheets
+
+## Key Concepts:
+### Risk Management Techniques:
+- Understanding and calculating Beta
+- Calculating and interpreting the Treynor Ratio
+- Estimating and analyzing Value at Risk (VaR)
+
+### Methodology:
+- Monthly returns analysis and standard deviation calculation
+- Graphical representation of risk metrics
+- Comparative analysis of investment risk factors
+
+## Process and Insights:
+- **Monthly Returns and Standard Deviation:** Analyzed the volatility and performance of investments using monthly returns and standard deviation.
+- **Beta Calculation:** Calculated the beta of stocks to gauge their market volatility.
+- **Treynor Ratio Calculation:** Calculated the Treynor Ratio to assess risk-adjusted returns of investments.
+- **Value at Risk Analysis:** Estimated the maximum potential loss in an investment with Value at Risk.
+- **Graphing and Conclusions:** Visualized key metrics for a clearer understanding of investment risks and performance.
+
+## Key Findings:
+Assessed investment risks and returns through the application of financial metrics, demonstrating the effective utilization of statistical methods in real-world investment scenarios to enhance risk assessment and management.
+
+### Risk Analysis Plot
+![Value at Risk FAANG Stocks](VaR_fang_img.png)
+
+## Conclusion:
+This project connects academic concepts with their practical use in finance, focusing on the detailed analysis of investment risks. It applies these ideas to make better decisions in managing portfolios, showing the importance of using data for risk evaluation in finance.
+
+<br>
+
+---
+
+
 # Portfolio Optimization using Markowitz Model
-A hands-on project titled "Portfolio Optimization using the Markowitz Model" was completed from Coursera. This project involved showcasing skills in financial portfolio management, utilizing advanced Excel techniques and financial theories.
+This project uses the Markowitz Model, to optimize a two asset porfolio. Leveraging Excel alongside fundamental financial theories, the project successfully delineates the creation of an efficient frontier.
 
 ## Project Overview:
 **Objective:** Build a Markowitz model to optimize a two-asset portfolio for the best risk/return ratio using the efficient frontier.
@@ -38,12 +84,15 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 ### - Assets Analyzed:
  - VOO - Vanguard 500 Index Fund ETF
  - BLV - Vanguard Long-Term Bond Index Fund ETF
+
 ### - Performance Metrics:
 - Sharpe Ratio Calculation
 - Standard Deviation
 - Mean Returns
+
 ### - Assumption: 
  - Risk-Free Rate at 0.19% (Pre-Pandemic 2020 Monthly return of 10-year treasury bills)
+
 ## Process and Findings:
  - **Data Analysis:** Calculated mean returns based on the adjusted close for VOO and BLV.
 
@@ -69,80 +118,52 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
 <br>
+
 ---
 
-# Investment Risk Management Course
-A course titled "Investment Risk Management" was completed, focusing on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
+# Portfolio Diversification using Correlation Matrix
+This course delved into the practical aspects of portfolio diversification using correlation matrices, under the guidance of instructor Bekhruzbek Ochilov, an experienced professional in capital markets, investment banking, and equity research.
 
-
-## Course Overview
-**Objective:** Apply key risk management concepts such as the Treynor Ratio and Value at Risk in the context of investment portfolios.
-
-**Tools Used:** Google Sheets
-
-
-## Key Learning Outcomes
- - **Introduction to Risk:** Understanding the fundamentals of investment risk.
-Monthly Returns and Standard Deviation: Analyzing the volatility and performance of investments on a monthly basis.
- - **Calculating Beta:** Determining the beta of stocks to understand their relative volatility compared to the market.
- - **Calculating Treynor Ratio:** Using the Treynor Ratio to assess the risk-adjusted returns of investments.
- - **Calculating Value at Risk:** Estimating the maximum potential loss in an investment over a specific time period, under normal market conditions.
- - **Graphing and Conclusion:** Visualizing key metrics and concluding insights from the data analysis.
-
-## Course Insights
- - **Practical Application:** This course emphasized practical skills in calculating and interpreting key financial metrics using Google Sheets.
- - **Advanced Risk Concepts:** The Treynor Ratio and Value at Risk were highlighted as crucial tools for assessing investment performance and risk.
- - **Data Analysis Skills:** Enhanced understanding of how to use data analysis in evaluating stock performance, particularly in volatile market conditions.
-
-## Conclusion
-This course provided valuable insights into the complexities of investment risk management. By applying theoretical concepts in a practical setting, it offered a deeper understanding of how to measure and manage risk in investment portfolios.
-
-<br>
----
-
-# Investment Risk Management Course
-A course titled "Investment Risk Management" was completed, focusing on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
-
-
-## Course Overview
-**Objective:** Apply key risk management concepts such as the Treynor Ratio and Value at Risk in the context of investment portfolios.
-
-**Tools Used:** Google Sheets
+## Course Overview:
+**Objective:** Utilize correlation matrices for optimizing portfolio diversification, enhancing risk management strategies in investment portfolios.
+**Tools Used:** Excel
 
 ## Key Concepts:
-- ### Risk Management Techniques:
-- Understanding and calculating Beta
-- Calculating and interpreting the Treynor Ratio
-- Estimating and analyzing Value at Risk (VaR)
+**Core Topics:**
+Understanding and applying correlation in portfolio diversification
+Creating and interpreting correlation matrices
+Analyzing asset correlations
+**Hands-On Project:**
+Portfolio Diversification using Correlation Matrix
 
-### - Methodology:
-- Monthly returns analysis and standard deviation calculation
-- Graphical representation of risk metrics
-- Comparative analysis of investment risk factors
-
-## Learning Process and Insights:
-- **Introduction to Risk:** Gained a foundational understanding of investment risk and its various forms.
-
-- **Monthly Returns and Standard Deviation:** Analyzed the volatility and performance of investments using monthly returns and standard deviation.
-
-- **Beta Calculation:** Comprehended and calculated the beta of stocks to gauge their market volatility.
-
-- **Treynor Ratio Calculation:** Learned to calculate the Treynor Ratio to assess risk-adjusted returns of investments.
-
-- **Value at Risk Analysis:** Estimated the maximum potential loss in an investment with a statistical approach, using Value at Risk.
-
-- **Graphing and Conclusions:** Visualized key metrics for a clearer understanding of investment risks and performance.
+## Process and Insights:
+ - **Introduction to Diversification and Correlation:** Established the foundational knowledge of diversification, emphasizing its importance in risk management.
+ - **Calculating Returns:** Techniques for determining investment returns, crucial for understanding portfolio performance.
+ - **Graphing Returns:** Utilized visual tools to interpret and compare stock performances and trends.
+ - **Creating Correlation Matrix:** Skillfully developed correlation matrices to assess the relationships between different assets.
+ - **Analyzing the Correlation Matrix:** Employed analytical skills to draw meaningful insights from the correlation data for informed diversification decisions.
 
 ## Key Findings:
-Gained practical experience in evaluating investment risks and returns using advanced financial metrics.
-Developed an understanding of how to apply statistical methods to real-world investment scenarios for better risk assessment and management.
-### Risk Analysis Plot
-Risk Analysis Graph
+ - Developed a practical understanding of using correlation matrices for effective portfolio diversification.
+ - Gained insights into how different assets interact and affect overall portfolio performance.
+//
+
+ - Acquired proficiency in using correlation matrices as a pivotal tool for identifying optimal asset combinations in portfolio diversification.
+ - Gained valuable insights into the interplay between various assets, learning to balance risk and return more effectively.
+ - Demonstrated the ability to apply theoretical risk management concepts in practical, data-driven investment scenarios.
+
+
+
+## Correlation Matrix Visualization
+Correlation Matrix Visualization
 
 ## Conclusion:
-The "Investment Risk Management" course bridged the gap between theoretical knowledge and real-world application in finance, focusing on the analytical evaluation of investment risks. The skills acquired in this course are pivotal for making informed decisions in portfolio management, highlighting the importance of data-driven risk assessment in financial practices.
+The "Portfolio Diversification using Correlation Matrix" project bridged the gap between theoretical concepts and their application in real-world finance. It highlighted the importance of correlation analysis in portfolio management, offering a nuanced perspective on risk management and investment strategy.
 
 
+//
+
+"Portfolio Diversification using Correlation Matrix" offered an in-depth understanding of sophisticated investment strategies, merging academic theory with practical financial analysis. It underscored the pivotal role of correlation in formulating robust, diversified investment portfolios, enhancing the overall risk-return profile.
 
 
 
