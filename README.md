@@ -29,6 +29,8 @@ https://www.coursera.org/projects/portfolio-diversification-correlation-matrix#d
 <br>
 <br>
 
+---
+
 # Portfolio Optimization using Markowitz Model
 A hands-on project titled "Portfolio Optimization using the Markowitz Model" was completed from Coursera. This project involved showcasing skills in financial portfolio management, utilizing advanced Excel techniques and financial theories.
 
@@ -77,7 +79,7 @@ This project represents an intersection between academic theory and practical ap
 <br>
 <br>
 
-
+---
 
 
 # Investment Risk Management Course
