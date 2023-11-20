@@ -116,7 +116,25 @@ A hands-on project titled "Portfolio Optimization using the Markowitz Model" was
 This project represents an intersection between academic theory and practical application in the field of finance. It illustrates the effective use of the Markowitz Model in optimizing portfolio management, with a focus on empirical data analysis and risk assessment. Moreover, it underscores the significance of marrying robust statistical methods with practical market insights to forge more resilient and informed investment approaches.
 
 
+# Investment Risk Management Course
+## Course Overview
+This section covers the "Investment Risk Management" course, focusing on advanced financial concepts like the Treynor Ratio and Value at Risk. The course is structured into several key areas, each building upon the last to provide a comprehensive understanding of risk management in investments.
 
+## Key Learning Outcomes
+ - **Introduction to Risk:** Understanding the fundamentals of investment risk.
+Monthly Returns and Standard Deviation: Analyzing the volatility and performance of investments on a monthly basis.
+ - **Calculating Beta:** Determining the beta of stocks to understand their relative volatility compared to the market.
+ - **Calculating Treynor Ratio:** Using the Treynor Ratio to assess the risk-adjusted returns of investments.
+ - **Calculating Value at Risk:** Estimating the maximum potential loss in an investment over a specific time period, under normal market conditions.
+ - **Graphing and Conclusion:** Visualizing key metrics and concluding insights from the data analysis.
+
+## Course Insights
+ - **Practical Application:** This course emphasized practical skills in calculating and interpreting key financial metrics using Google Sheets.
+ - **Advanced Risk Concepts:** The Treynor Ratio and Value at Risk were highlighted as crucial tools for assessing investment performance and risk.
+ - **Data Analysis Skills:** Enhanced understanding of how to use data analysis in evaluating stock performance, particularly in volatile market conditions.
+
+## Conclusion
+This course provided valuable insights into the complexities of investment risk management. By applying theoretical concepts in a practical setting, it offered a deeper understanding of how to measure and manage risk in investment portfolios.
 
 
 
