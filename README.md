@@ -16,7 +16,7 @@ This repository is a collection of projects highlighting my evolving expertise i
 
 ---
 
-# Investment Risk Management Course
+# Investment Risk Management Project
 This project on investment risk, focuses on the practical application of financial risk management concepts and tools, including the Treynor Ratio and Value at Risk.
 
 ## Course Overview
@@ -58,7 +58,7 @@ This project connects academic concepts with their practical use in finance, foc
 ---
 
 
-# Portfolio Optimization using Markowitz Model
+# Portfolio Optimization using Markowitz Model Project
 This project uses the Markowitz Model, to optimize a two asset porfolio. Leveraging Excel alongside fundamental financial theories, the project successfully delineates the creation of an efficient frontier.
 
 ## Project Overview:
@@ -108,7 +108,7 @@ This project represents an intersection between academic theory and practical ap
 
 ---
 
-# Portfolio Diversification using Correlation Matrix
+# Portfolio Diversification using Correlation Matrix Project
 Delving into the strategic implementation of correlation matrices, this project emphasized their role in enhancing portfolio diversification, integrating analysis with practical financial insights. The focus was to apply these  techniques to optimize the investment strategy.
 
 
